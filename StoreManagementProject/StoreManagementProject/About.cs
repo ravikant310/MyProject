@@ -28,6 +28,7 @@ namespace StoreManagementProject
             label4.Visible = false;
             label5.Visible = true;
             panel2.Visible = false;
+//comment
         }
     }
 }
